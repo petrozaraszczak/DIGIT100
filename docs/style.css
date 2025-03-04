@@ -1,18 +1,47 @@
 body {
-                background: #979a9a;
-                font-family: "Lucida Console", "Courier New", monospace;
-            }
-            
-figure {width:20%;
-             background: /*#EFD6F6*/ white;;
-            }
-            
-img {width:80%;}
-            
-img#PSB {width:10%;}
-            
-section{
-            background: coral;
-            width:90%;
-            margin:auto;
-            }
+    background: #64B5F6;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+ 
+figure {
+    width: 15%;
+    background: /*#D84315*/ #2874a6 ;
+    ;
+}
+
+img {
+    width: 80%;
+}
+
+
+img {
+    width: 80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+img#PSB {
+    width: 10%;
+}
+
+
+
+
+div.flex {
+    
+   display:flex; 
+   
+}
+section {
+    background:  #2874a6 ;
+    width: 90%;
+    margin: auto;
+}
+
+
+
+
+
+
+
