@@ -2,6 +2,11 @@ body {
     background: #64B5F6;
     font-family: "Lucida Console", "Courier New", monospace;
 }
+
+
+iframe.thinglink {
+    width:960px; 
+    height:720px;}
  
 figure {
     width: 15%;
