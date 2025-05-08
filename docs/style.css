@@ -7,6 +7,8 @@ iframe.thinglink {
     width:960px; 
     height:720px;}
  
+ 
+ 
 figure {
     width: 30%;
     background: /*#D84315*/ #2874a6 ;
@@ -38,7 +40,7 @@ div.flex {
    
 }
 section {
-    background:  #2874a6 ;
+    background:  #2874a6  ;
     width: 90%;
     margin: auto;
 }
